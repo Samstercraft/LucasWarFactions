@@ -1,0 +1,8 @@
+name = "Warfare 44 Content Pack"
+filename = "Warfare-44-Content-Pack-1.12.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Samstercraft/LucasWarFactions/releases/download/flans-content-pack/Warfare-44-Content-Pack-1.12.2.jar"
+hash-format = "sha256"
+hash = "d6b55f7306f38721006e087cd95923c9c8c31336084ce014a812d99f83894590"

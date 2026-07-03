@@ -1,0 +1,8 @@
+name = "WW2 Content Pack"
+filename = "WW2-Content.Pack-1.12.2-5.5.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Samstercraft/LucasWarFactions/releases/download/flans-content-pack/WW2-Content.Pack-1.12.2-5.5.2.jar"
+hash-format = "sha256"
+hash = "ab9cfeaaa3ab2398eee154564087293b9ce3d48b274ecec2302398ac12e5bf9b"

@@ -1,6 +1,41 @@
 hash-format = "sha256"
 
 [[files]]
+file = "Flan/modern-warfare-content-pack.pw.toml"
+hash = "2eba3ce4d75e250b4e2bfd6f5cf31f9523954abd212255f63d995da4a8bba2fc"
+metafile = true
+
+[[files]]
+file = "Flan/simple-parts-content-pack.pw.toml"
+hash = "34b7ea7d818d6091961531c51b6b875dc62b149f21317e0c3509f18e59468e41"
+metafile = true
+
+[[files]]
+file = "Flan/warfare-44-content-pack.pw.toml"
+hash = "de35c740427bebb83b399a4d467fd470f3beb1c391dc28e6b5c5efc5aeb9113a"
+metafile = true
+
+[[files]]
+file = "Flan/ww1-armor-content-pack.pw.toml"
+hash = "5fcc25df3c71d20e983ba28163b2aa6be3e90eeb3888c5a7b28fd7b7eec3fb82"
+metafile = true
+
+[[files]]
+file = "Flan/ww2-armor-content-pack.pw.toml"
+hash = "e3cc84cd7f4dfed84103825508b33de3ede11ad56c76534a8ce5e6d7a73aa041"
+metafile = true
+
+[[files]]
+file = "Flan/ww2-content-pack.pw.toml"
+hash = "b093560e86f9dbca478d97cba15e8d972e82ade9e61b479a09a27f0bd5426325"
+metafile = true
+
+[[files]]
+file = "Flan/zombie-content-pack.pw.toml"
+hash = "7c1c5781382691ecd8a10933c8c02553e2509cc526421187dfcc463522e17b91"
+metafile = true
+
+[[files]]
 file = "config/BaseMetals.cfg"
 hash = "82406fb7a410c0ddd0fdd1d59007b5ef9422d5471abbbb0277c743359f0db5f7"
 
@@ -588,9 +623,5 @@ hash = "387c99353fef38104dfcc32c46af713f6382119f0829519ca69d4fbceecc9bde"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "60a970031b5d3d46176187eabed1ad030054cf1beae9f14aa947da5bfeb82502"
-
-[[files]]
 file = "servers.dat"
-hash = "d4a3cff30860c30e29feadbb3aac75032a3cec1fcbf79e1458ffaccd7cde3350"
+hash = "768f87b9b71f51c3ef8a7c0a3108d1ae058dab910358788dbd7e6222210697e9"

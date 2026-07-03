@@ -1,0 +1,8 @@
+name = "WW1 Armor Content Pack"
+filename = "WW1-armor-pack-1.12.2-v1.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Samstercraft/LucasWarFactions/releases/download/flans-content-pack/WW1-armor-pack-1.12.2-v1.0.jar"
+hash-format = "sha256"
+hash = "8c95489027c92404d09aada2f69c8ea85ff7a7189fa0a4fa68f20b8e5ff52501"

@@ -1,0 +1,8 @@
+name = "Zombie Content Pack"
+filename = "Zombie-Content.Pack-1.12.2-5.5.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Samstercraft/LucasWarFactions/releases/download/flans-content-pack/Zombie-Content.Pack-1.12.2-5.5.2.jar"
+hash-format = "sha256"
+hash = "3ca0c7538cd08db6a6e6b0a6e41a33daed522fd8b01364f01bb19bbbb0131b71"
