@@ -1,0 +1,13 @@
+name = "Lucas' War Factions SMP Pack"
+author = "Lucas"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6c08598b389f87427f0b7fe5bfba81f0015adab3a04ef7b6cbeb153b93711534"
+
+[versions]
+forge = "14.23.5.2859"
+minecraft = "1.12.2"

@@ -1,0 +1,596 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/BaseMetals.cfg"
+hash = "82406fb7a410c0ddd0fdd1d59007b5ef9422d5471abbbb0277c743359f0db5f7"
+
+[[files]]
+file = "config/DIAdvancedCompatibility.cfg"
+hash = "a67b7e9c5283e9d65e4b085fe99b3067b49df3d83574e8c4aa459128cfc6fcc9"
+
+[[files]]
+file = "config/InvTweaks.cfg"
+hash = "693097ba3c9fdd9754ad48586b93c6618e0959466afe0ad073aedef42ac49745"
+
+[[files]]
+file = "config/InvTweaksRules.txt"
+hash = "b63870bb7b08cb7edb1189dd929ae802a8e7a6857ede3d92055038a5c617bb22"
+
+[[files]]
+file = "config/InvTweaksTree.txt"
+hash = "5dbafa1e67c70c79660a4da7a663fabfda69724ec352f79d5d4ab5e0323368e8"
+
+[[files]]
+file = "config/MMDLib.cfg"
+hash = "a59c017fc5c8d4ae8af9fcdabab1c92f0c01e216850a08163e2a5455535082da"
+
+[[files]]
+file = "config/ModernWarfare.cfg"
+hash = "7ce3a6fb1bfb5b6cd3433f07d6cbc2c39f1a7a55e60c426497a3394e9502d9da"
+
+[[files]]
+file = "config/TinkerModules.cfg"
+hash = "b8560ee6ba7c99297a489fd1f39217e47431238db471a5140af31a1d7718d2cc"
+
+[[files]]
+file = "config/Universal Tweaks - Bugfixes.cfg"
+hash = "61b8411952e748a46caa9c6ebbc1fb4ae2b28a2f73c716e9eab9f8f603b7347e"
+
+[[files]]
+file = "config/Universal Tweaks - General.cfg"
+hash = "6bde7fd15d8d1383a8d903a83c707d19436342f80adb08dfd1a89748092580e4"
+
+[[files]]
+file = "config/Universal Tweaks - Mod Integration.cfg"
+hash = "ce48bbcc3cbff417a97b03c728e9065038ab8760f3678c31cd32711ba32dcd36"
+
+[[files]]
+file = "config/Universal Tweaks - Tweaks.cfg"
+hash = "c251a4417ec867036f38d91ec5b999ee0ca21335e13abdd33b3a5ecb99668106"
+
+[[files]]
+file = "config/bbm/AI_Improvements.cfg"
+hash = "f4384b38cfdc89bea4f12667e7b6ac4b336091be9d55c22b7d89ec45cae6d660"
+
+[[files]]
+file = "config/betterbuilderswands.cfg"
+hash = "46ed04338f405a327ebce8bec17d63f51311e4d65871bd8f3101d328f10cc659"
+
+[[files]]
+file = "config/betterthirdperson.cfg"
+hash = "91f1346a750729f7e769c006f6536b7ed8ecccb749ab01413c19814f96a3e2b1"
+
+[[files]]
+file = "config/corpse.cfg"
+hash = "d2fb9c5052467296884a72df2571f276f9eb2635c080e44b33072bc00679f5ae"
+
+[[files]]
+file = "config/damageindicatorsmod.cfg"
+hash = "6a63d75f5da7878cbb4f9591f24acd27be8d640eb42d324ec192f509eccd7941"
+
+[[files]]
+file = "config/dsurround/dsurround.cfg"
+hash = "55c805c3ec34c9792ff34b517fc1af843cb2f6e343eec82bdbd5396aa5ad4509"
+
+[[files]]
+file = "config/entityculling.cfg"
+hash = "3ca7a6cb6fd35b69d0b5775e1e5cd4661c320905d7dafa65e7c07a53f8f5c21f"
+
+[[files]]
+file = "config/flansmod.cfg"
+hash = "c907313674ece08663ab3b907a15710545a0befceeb7253053de1375e975f352"
+
+[[files]]
+file = "config/forge.cfg"
+hash = "cccdea48d5b1029363ba61b162217653a11b54bf9be160134653b54fc24379aa"
+
+[[files]]
+file = "config/forgeChunkLoading.cfg"
+hash = "bfcd073afd6f6ed028ea857d6c8c5a262ea87c648f1d2e8b07f67b20fe28ccc8"
+
+[[files]]
+file = "config/hbm/assemblerConfig.cfg"
+hash = "e67bbe6c400d3df3bdd3fb681334558f9fc63e7c96b182cca7547899d9845ac4"
+
+[[files]]
+file = "config/hbm/hbm.cfg"
+hash = "f497d1d1fb34087571fdd8685c426c6c093658286ddb164dec6930bc595908ee"
+
+[[files]]
+file = "config/hbm/hbm_bedrock_ores.json"
+hash = "53e9808f392828782b0f5016bcac3db12e3b5f99f501ed130940f1cf91f95476"
+
+[[files]]
+file = "config/hbm/hbm_dimensions.cfg"
+hash = "3ebd1f4243f5b87f579a62a76e6a1affc839061a25223368e32006b37a05474a"
+
+[[files]]
+file = "config/hbm/solinium.cfg"
+hash = "14cdc5fde9bcbc2bcda02e0ce03952ea7d65cd34d5b206291694ce5a9c42309b"
+
+[[files]]
+file = "config/ichunutil.cfg"
+hash = "968a84f6b6de595ac76f095755593432d1cadce4abe9873f347a23b787b92dc6"
+
+[[files]]
+file = "config/ichunutil_keybinds.cfg"
+hash = "52fceed7e473ec1013f6e1b904c2d7ca3614e2cf3cd6c34c5b507944d185ab68"
+
+[[files]]
+file = "config/ironbackpacks/blacklist.json"
+hash = "e20936e9319f9c0ad6654a73913b2a46b907f74357c3ee73d47a52a314f1115f"
+
+[[files]]
+file = "config/ironbackpacks/ironbackpacks.cfg"
+hash = "261aad132b6ecdc7e9fec06e8f08b42a81995487dec8bf364254db561bb45b27"
+
+[[files]]
+file = "config/ironchest.cfg"
+hash = "2fe6d0923e0511d1f4fc2020ae3f3fe45583390cd8c35752e1a811f517ce2e71"
+
+[[files]]
+file = "config/jei/itemBlacklist.cfg"
+hash = "5874e5f3bdd2c081d0a7468089d08c0c3030b0a705bdd4dab997099d84733f15"
+
+[[files]]
+file = "config/jei/jei.cfg"
+hash = "8fd2b9183f09a0fbd186b94c994f87d5a358b080065b9f243b8d5ef7e9e8da9a"
+
+[[files]]
+file = "config/jei/searchColors.cfg"
+hash = "aa2d125660ad731dff9aec92c745a6947e204dba56ecc95d6907f1883d26ec33"
+
+[[files]]
+file = "config/jei/worldSettings.cfg"
+hash = "d310b3b4b6da5eb261d9141a454cf320ac8cffd51ba7ad3949dc9546af2da7b8"
+
+[[files]]
+file = "config/malisiscore.cfg"
+hash = "edc53848a46cb174f1469e9ec5bed0f9105aa29cf211f4000ff8a6ab3fed47c5"
+
+[[files]]
+file = "config/malisisdoors.cfg"
+hash = "a04de6da2d94d6855d63ed0fd56fd8a3347f8548f6ecd999d2fe9e95d9c455b5"
+
+[[files]]
+file = "config/mcheli.cfg"
+hash = "a92b6bb83aab0b3fa68b6fcbc82a39fe1f9de9dbd7a5f23b74404f409c3b1d3e"
+
+[[files]]
+file = "config/mixinbooter.cfg"
+hash = "abd020e9b56dda3c0018969b0dac9c32beb580697a730e0448cac664b22340a5"
+
+[[files]]
+file = "config/mw.cfg"
+hash = "0187befed67de283768608845fc4ad5166815f5a4141e2a0f982179c6f96f0ca"
+
+[[files]]
+file = "config/nothirium.cfg"
+hash = "45fd7f83fe3a256647bd63b6a81f15dc7a6812d172d31a383994723293b70903"
+
+[[files]]
+file = "config/orelib.cfg"
+hash = "eec5ce6535e1b9e0797f02d31060fd1c92def7e6b4298ce0ee5aac970563121d"
+
+[[files]]
+file = "config/orespawn.cfg"
+hash = "440c102c0f6d116f6839aa0afed4c08ccee6270e110fdabf18f799a124b085b1"
+
+[[files]]
+file = "config/orespawn3/basemetals.json"
+hash = "35e893379aaacf0f9e7da95ed535a4eb15b12d4e007405bc75c90352fdae5a39"
+
+[[files]]
+file = "config/orespawn3/orespawn.json"
+hash = "f1f64f7735af767d23982c8a3a9c28b5b2e29326a927ef881522f82a7ca18191"
+
+[[files]]
+file = "config/orespawn3/sysconf/features-orespawn.json"
+hash = "a476fff24d87dcbfc82d7c1787955e2c9eba664c35c53ecadf33c1b6c2351af3"
+
+[[files]]
+file = "config/orespawn3/sysconf/known-configs.json"
+hash = "60c6065203421c189ac581e12570a6e3012b780634ec827630f7ff9c432e699e"
+
+[[files]]
+file = "config/orespawn3/sysconf/replacements-orespawn.json"
+hash = "b2239273a5ad9793c1a131f27231e7178024686ff2fb2462e9af8535c30fc8d8"
+
+[[files]]
+file = "config/particleculling.cfg"
+hash = "9340892a0a34ef86aa36974b4680d24c4db3e1ec87a5c7e372398992f21a8844"
+
+[[files]]
+file = "config/renderlib.cfg"
+hash = "cab10f7c6f34765c8c82844df540940f0b9609d5201b92ba7f77d3002444bde3"
+
+[[files]]
+file = "config/securitycraft.cfg"
+hash = "f8326294dc099401e4eff6716b8f8abab93a2d30e54ef6af4548f467c997f379"
+
+[[files]]
+file = "config/sledgehammer.conf"
+hash = "ba39dbe714a3acc5fb577ee7c3f290b9f589289e6f17b142c5a1e4e9c495716d"
+
+[[files]]
+file = "config/splash.properties"
+hash = "38268c12adaf9c2bb511a5df7064948bdd469cb2a74077f36baa3b8ed387c6c0"
+
+[[files]]
+file = "config/tconstruct.cfg"
+hash = "1fd587cc59ee05cca9438647e2e7c5730a1760dbd8666af360460d26c2470243"
+
+[[files]]
+file = "config/tconstruct_oredictcache.dat"
+hash = "f0f8b632af03391816ac8c399215258016e04a3147798b6bebecbac59c7196ac"
+
+[[files]]
+file = "config/veinminer/general.cfg"
+hash = "d596803b9c3ac4cb725b2d6d7de30ec940b690eb9bdf1d32765ece6f7ecd3c88"
+
+[[files]]
+file = "config/veinminer/modSupport.cfg"
+hash = "172ce3cba7f0006bd56e163c45c83a00b3c9692859aeb61d5e2b95ef4dc04917"
+
+[[files]]
+file = "config/veinminer/tools-and-blocks.json"
+hash = "8851a6e18c2b344aed47e2c6c53af7837c4d00a0f06afb7398370fb91d1d4844"
+
+[[files]]
+file = "config/vintagefix.properties"
+hash = "15421def9c7ba402730eb7ee38c7c38160614e93da4de87ab69bb7524aca06e7"
+
+[[files]]
+file = "config/voicechat/category-volumes.properties"
+hash = "3747c48bcb3a60834f88f056ee9b3a025153b11f6ca88652b4bddebb77cea009"
+
+[[files]]
+file = "config/voicechat/player-volumes.properties"
+hash = "cd385ca1eeda4df612631e2713cc6d503793157ef8bd5518d736429e6c1ae474"
+
+[[files]]
+file = "config/voicechat/translations.properties"
+hash = "b258a94a5ed60fbf93b66c452c3d6e36b044f630741f90e5b13852a4805b235e"
+
+[[files]]
+file = "config/voicechat/username-cache.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "012e3f7dc7cf9f4f794c990c70b8e0e11f65dbf695a0b9c937fa4fa9eed69c6c"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "568a8983b475455b41140917fa1ec0923d3846d1afa7d9794ae02380f77668dd"
+
+[[files]]
+file = "config/waila/theme/dark.json"
+hash = "cd2696aae34e17993d6eb737f7a1bc74d949058463bc304ae0ded14c5cac9f19"
+
+[[files]]
+file = "config/waila/theme/vanilla.json"
+hash = "b2aae1f2d5b272a9b533a6f13316aefe535173f379efc2ea48bd8fc327c7fa0b"
+
+[[files]]
+file = "config/waila/waila.cfg"
+hash = "6ef8b34e8974d311a96ad28e53fabf3448610bae244bc22ce2b1b1aa1eff3c17"
+
+[[files]]
+file = "config/xaero/lib/client.cfg"
+hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
+
+[[files]]
+file = "config/xaero/lib/common.cfg"
+hash = "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2"
+
+[[files]]
+file = "config/xaero/lib/profiles/default.cfg"
+hash = "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907"
+
+[[files]]
+file = "config/xaero/lib/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaero/minimap/client.cfg"
+hash = "c0915eff5d1a7905cd1038d646eb9086fd1a29e2f637d53535e4da161de17b9f"
+
+[[files]]
+file = "config/xaero/minimap/common.cfg"
+hash = "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0"
+
+[[files]]
+file = "config/xaero/minimap/default_radar_categories_client.json"
+hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
+
+[[files]]
+file = "config/xaero/minimap/default_radar_categories_server.json"
+hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
+
+[[files]]
+file = "config/xaero/minimap/profiles/default.cfg"
+hash = "851c8dc1d1c82f03ae7ba9686f5f1c667e9ff7baa04c55ebe082c5ad7c67ab57"
+
+[[files]]
+file = "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
+hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
+
+[[files]]
+file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
+hash = "184e654fa1fc8ad09943c97c4e65ab78acb5b3cfca22417a831513d1b6d9bbc6"
+
+[[files]]
+file = "config/xaero/minimap/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaero/world-map/client.cfg"
+hash = "deece0fe0d29f2203a9699143a6209c451e91d7ecb799489c328b0d0fa31a90d"
+
+[[files]]
+file = "config/xaero/world-map/common.cfg"
+hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
+
+[[files]]
+file = "config/xaero/world-map/profiles/default.cfg"
+hash = "7b24c882801bcc7f0a8aedc625d419f661fa490fa0e9d5ebe39599a1ce2dcbd5"
+
+[[files]]
+file = "config/xaero/world-map/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaerohud.txt"
+hash = "cf034187f2df5f7b06137fe2764158df500132f528ef31994948f11afbece936"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/xporbclump.cfg"
+hash = "a661a6edbd26813278499c26f98d83757f27b35a714a6a48ca5d531f3df8461b"
+
+[[files]]
+file = "mods/alfheim-lighting-engine.pw.toml"
+hash = "2bf69e86de17e612485966afca4d35b0942412bd3cc6f0041e8dbfac16a9b769"
+metafile = true
+
+[[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "45b89fead492935701ce8092eb3920bce39d824629bd87458eae218aba41d258"
+metafile = true
+
+[[files]]
+file = "mods/base-metals.pw.toml"
+hash = "a3f9d8ea304608b546529ea24052371d91a1df7009392a0aa5013d39df2e2de6"
+metafile = true
+
+[[files]]
+file = "mods/better-builders-wands.pw.toml"
+hash = "f7c821287bcb460b7cd51438d4f08c818beb1070d687a0460ce5c5279941bad2"
+metafile = true
+
+[[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "15a42ffe289dfb7dc717486dc9a6ea4e4bbcdaa35953c60ce0e726d6971381fe"
+metafile = true
+
+[[files]]
+file = "mods/configanytime.pw.toml"
+hash = "defd8d7b171bb90e9ae3cc60f8c5e863346f74f7c43d90fd2a1519cc9b0e7f5f"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "7dde40fe909e0755a761db848c2fa6ae83ff9c4ef640c43fa4e29855203e0f1a"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+hash = "d147d561c5b715ba9528cc507fa1f85bfeef89f4da260c1c301f80e0033f0b73"
+metafile = true
+
+[[files]]
+file = "mods/damage-indicators-mod.pw.toml"
+hash = "cf9ef412e2dbbd600fa47f0373c5183cfe7d3d38ec1f569ebf4d8404f6677b31"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-surroundings.pw.toml"
+hash = "2d482b40072462ca65ca75ac3e475137d2c9871bb3fe678484b759b55f0d85cc"
+metafile = true
+
+[[files]]
+file = "mods/entity-culling.pw.toml"
+hash = "63fb214e420b454feafef0204ccc53f6455c46052813da0b640c891e860d6e9e"
+metafile = true
+
+[[files]]
+file = "mods/flans-mod-5-5-2.pw.toml"
+hash = "57a81047beb80155f0fa3807f8e9655f627ca251cc954f7bd19dc8dd9d74fcb8"
+metafile = true
+
+[[files]]
+file = "mods/hbms-nuclear-tech-mod-extended-edition.pw.toml"
+hash = "22f86973f12d6143d15060fc486c02c7fa64e2f03c3f91fa2529fd13b3b2c83f"
+metafile = true
+
+[[files]]
+file = "mods/hwyala.pw.toml"
+hash = "2de5b18fb37922fd7c46fa1ac56d119ad8b9ff26ec20dc0f5897cf0fc3127f35"
+metafile = true
+
+[[files]]
+file = "mods/ichunutil.pw.toml"
+hash = "e84b408fe657d70ce1292d146ebfa510843327453d245d5694de3a434ad482bd"
+metafile = true
+
+[[files]]
+file = "mods/inventory-tweaks.pw.toml"
+hash = "339166d6cf1eb1b613cc0a527800dea1adc1f52ca6be581638a5de54e8d7bdeb"
+metafile = true
+
+[[files]]
+file = "mods/iron-backpacks.pw.toml"
+hash = "7ac16b8d705170e86b2f4a1216afe9f124bb859121f24d4e28f6d77c4b6dcf3f"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "f5e51601becf4c9f8878530d40cd2ecf232e89e5d9fae6218959a15eee12417d"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "49cfa6cc9199acf8160d8d4d5c7c0be5f6b5ac2d3e113a7d1f27a91fb237fd9c"
+metafile = true
+
+[[files]]
+file = "mods/jeid.pw.toml"
+hash = "03caa2eb930e892f0fe87adc97b2c36bd203afa3be7a38ffaefcc94d1fee887f"
+metafile = true
+
+[[files]]
+file = "mods/malisiscore.pw.toml"
+hash = "30c772d502232b689f11c6cb4740238a4db1e656a21291c307a08f346ca1bd6c"
+metafile = true
+
+[[files]]
+file = "mods/malisisdoors.pw.toml"
+hash = "186416dfcddfb41fe0ecd15bfafc67aec937c36e5dbac496386c9a480d2eb294"
+metafile = true
+
+[[files]]
+file = "mods/mantle.pw.toml"
+hash = "3b5ef81c27805786f2b7e53d12bbb5a7a9ec8eacf8c005dd3f657f731480796a"
+metafile = true
+
+[[files]]
+file = "mods/mcheli-mod-1-12-2.pw.toml"
+hash = "ce7f519a2a1b0da6bbc48bcd317186f02decfdf1a025bb32ebf2872a17d5e0dc"
+metafile = true
+
+[[files]]
+file = "mods/mixin-booter.pw.toml"
+hash = "b8eea1eb98a38e8efe44da10cb5f55ce0ff5f74811d09691b0e267916c62fe86"
+metafile = true
+
+[[files]]
+file = "mods/mmd-orespawn.pw.toml"
+hash = "508cbec6720aedbda4693bddb044b0feb87e1c64ac4e0e1224e733cef5644625"
+metafile = true
+
+[[files]]
+file = "mods/mmdlib.pw.toml"
+hash = "b6ac794dce06b2ab72dd3aa97adb31e17f89cb88584d49ce58a36ceab2d09a71"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "30746e92b44351d3365fa5aa6e43b623476c91116fb8b9f88b7233339d3c9f43"
+metafile = true
+
+[[files]]
+file = "mods/nothirium.pw.toml"
+hash = "8329caecbbb520c7409eef2ec78af1e6b787486c92e2d7c6bb76863e2cd2991e"
+metafile = true
+
+[[files]]
+file = "mods/optifine.pw.toml"
+hash = "8990199e2b11d56cc746ae430359a67010e8bee749d4c303fb0826294f3a9418"
+metafile = true
+
+[[files]]
+file = "mods/orelib.pw.toml"
+hash = "e83488bb8c787c89ea377f4a4629ad3353ef713cd0546cf50c2b0f17588cb19f"
+metafile = true
+
+[[files]]
+file = "mods/particle-culling.pw.toml"
+hash = "c74c3ad44046053dc9f57dc3c565d257e98dd4acb6c4a4fe82c845eeaddecf25"
+metafile = true
+
+[[files]]
+file = "mods/project-444043.pw.toml"
+hash = "ae99374e0732a56646329eb8c4e2abd31328808f9e4d010a61f3f919b66098d2"
+metafile = true
+
+[[files]]
+file = "mods/red-core.pw.toml"
+hash = "06969f488405c789e0312c1a09be5e51bda6eab1d7869ab934cb55289aad3860"
+metafile = true
+
+[[files]]
+file = "mods/renderlib.pw.toml"
+hash = "98185e416d24da0fa61981ad5e539a6ce987409ea70dfca55b91754449e01b6e"
+metafile = true
+
+[[files]]
+file = "mods/security-craft.pw.toml"
+hash = "ba46dafd1ad8ed45d266c6f81204b4c15fdf8a800c218063390f35bce8284eec"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "afff62fd5039d091767576b8929bff55dad5616842981008d51910e09a6d5c43"
+metafile = true
+
+[[files]]
+file = "mods/sledgehammer.pw.toml"
+hash = "7e596d05a3c2e4641170c3abbc44bd8febdc8052b37ee3835451acca43ad0464"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "3e6cb5fcf2c9c4254ca778c8fc61b4d05e895c111c2a98fb6c0b2bc44922e3f2"
+metafile = true
+
+[[files]]
+file = "mods/universal-tweaks.pw.toml"
+hash = "87f6c7708d34da46088a7850b86c4113edd0f3f958535c4aebb0985d0a4c84bb"
+metafile = true
+
+[[files]]
+file = "mods/veinminer.pw.toml"
+hash = "142cd8aa6f26b116fb5d07bd0c26463e90d3591c0fa1d30f35d4b1a8eae2142d"
+metafile = true
+
+[[files]]
+file = "mods/vics-modern-warfare-mod.pw.toml"
+hash = "fa6c91ce9030728003ea87cf27d83b60d6871d895a4a30bf6aca254699219631"
+metafile = true
+
+[[files]]
+file = "mods/vintagefix.pw.toml"
+hash = "6b5087834eef556d5a83aba3e6f4d4368a77b3e9a8905919a5906a7ce58cbff7"
+metafile = true
+
+[[files]]
+file = "mods/xaerolib.pw.toml"
+hash = "058b2ae67e177129383e19129a6d1e2ad9f9e506751cdbb985a13785bbcf4b31"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "129e03e79ec5661d5617dd36bae19a207462194a41d5b4a69483c35834b72b42"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "8c67a674818a577d02d5d66c650118490f0a83d9128aee9804727a1ed316a932"
+metafile = true
+
+[[files]]
+file = "mods/xp-orb-clump.pw.toml"
+hash = "387c99353fef38104dfcc32c46af713f6382119f0829519ca69d4fbceecc9bde"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "60a970031b5d3d46176187eabed1ad030054cf1beae9f14aa947da5bfeb82502"
+
+[[files]]
+file = "servers.dat"
+hash = "d4a3cff30860c30e29feadbb3aac75032a3cec1fcbf79e1458ffaccd7cde3350"

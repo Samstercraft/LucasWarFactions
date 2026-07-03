@@ -1,0 +1,16 @@
+name = "Sledgehammer"
+filename = "Sledgehammer-1.12.2-2.0.25-thin.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "de5a3409a6cecefd621f8cd98f7463ecf0c76d9f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4810570
+project-id = 319175
+
+[option]
+optional = true

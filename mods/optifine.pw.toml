@@ -1,0 +1,8 @@
+name = "Optifine"
+filename = "downloadx"
+side = "both"
+
+[download]
+url = "https://optifine.net/downloadx?f=preview_OptiFine_1.12.2_HD_U_G6_pre1.jar"
+hash-format = "sha256"
+hash = "90614edd5cc694d4c7fd9f3e63a354fb894463a333ee7cb86d566d572d43bf08"

@@ -1,0 +1,13 @@
+name = "Hwyala"
+filename = "Hwyala-1.8.26-B42_1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c1e5baf116be10539bb5f4d5b67be6b2d2a2150c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8153162
+project-id = 1502373

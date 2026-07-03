@@ -1,0 +1,13 @@
+name = " Helicopter and fighter jets "
+filename = "mcheli-1.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3ae883610ada231d3f86199b58c9e92f4b080d1d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5441365
+project-id = 1039485

@@ -1,0 +1,13 @@
+name = "Vic's Modern Warfare Mod [Discontinued]"
+filename = "mw3.0_sqr-0.7.25_BETA_mc1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2173446ec2d54f08b0a5afad113d561f18fc7e00"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4415481
+project-id = 243788

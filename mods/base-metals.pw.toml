@@ -1,0 +1,13 @@
+name = "Base Metals"
+filename = "BaseMetals-1.12-2.5.0-rc2.332.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b712d8844ab846498eaa7fd36507c6fc99a47f3a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2712965
+project-id = 240967

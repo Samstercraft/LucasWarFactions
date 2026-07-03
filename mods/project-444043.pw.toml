@@ -1,0 +1,13 @@
+name = "project-444043"
+filename = "Blockgame Tweaker 3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ab2118b1ed23444d6decf081e0295e4c679af6c2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3378442
+project-id = 444043
